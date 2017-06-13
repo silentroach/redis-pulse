@@ -1,0 +1,26 @@
+{
+  "name": "redis-pulse",
+  "version": "0.0.1",
+  "description": "Simple ping-pong heartbeat for redis connection",
+  "main": "index.js",
+  "peerDependencies": {
+    "redis": "^2"
+  },
+  "repository": "git://github.com/silentroach/redis-pulse.git",
+  "bugs": {
+    "url": "https://github.com/silentroach/redis-pulse/issues"
+  },
+  "homepage": "https://github.com/silentroach/redis-pulse#readme",
+  "keywords": [
+    "redis",
+    "es6"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": "^6.0.0"
+  },
+  "author": "Igor Kalashnikov <igor.kalashnikov@me.com>",
+  "license": "MIT"
+}
