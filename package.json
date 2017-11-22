@@ -19,7 +19,7 @@
     "index.js"
   ],
   "engines": {
-    "node": "^6.0.0"
+    "node": ">=6.0.0"
   },
   "author": "Igor Kalashnikov <igor.kalashnikov@me.com>",
   "license": "MIT"
